@@ -14,8 +14,10 @@ yum update
 
 yum install pam-devel openssl-devel make gcc
 
-wget https://raw.githubusercontent.com/py-friend/IKEV2/master/one-key-ikev2.sh?token=APOZWIQGE44S3DNZRB44YB3AKXQBE
+每一次都要登录GITHUB获取下载链接
 
-chmod +x one-key-ikev2.sh
+wget 下载链接
 
-bash one-key-ikev2.sh
+chmod +x one-key-ikev2.sh？token=？？？
+
+bash one-key-ikev2.sh？token=？？？
